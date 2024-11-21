@@ -1,1 +1,1 @@
-# white_simulation_setup
+# white simulation setup
